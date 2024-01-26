@@ -67,18 +67,18 @@ Read more about the book in [Introduction](https://nbviewer.jupyter.org/github/a
 
 Finally I would like to ask for your help, this Book is for you, and I would love to hear from you, if you need more explanations, have doubts on certain sections, many others will feel the same so please feel free to reach out to me via:
 
-<a href="https://www.facebook.com/adhiraiyan/">
+<a href="https://www.facebook.com/aamaanakbar/">
         <img src="https://img.shields.io/badge/Facebook-brightgreen.svg?" alt="Facebook">
 
-<a href="https://www.linkedin.com/in/mukesh-mithrakumar/">
+<a href="https://www.linkedin.com/in/aamaanakbar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue.svg?" alt="LinkedIn">
 </a>
 
-<a href="https://twitter.com/MMithrakumar">
+<a href="https://twitter.com/aamaanakbar">
     <img src="https://img.shields.io/badge/Twitter-9cf.svg?" alt="Facebook">
 </a>
 
-<a href="https://www.instagram.com/adhiraiyan/">
+<a href="https://www.instagram.com/aamaanakbar/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet.svg?" alt="Instagram">
 </a>
 
